@@ -1,4 +1,4 @@
-# Ecuaciones Diferenciales — UNAD 📓
+# Ecuaciones Diferenciales — UNAD 
 
 Notebooks de Google Colab desarrollados para el curso **Ecuaciones Diferenciales (100412)**  
 de la **Universidad Nacional Abierta y a Distancia - UNAD**.
@@ -7,7 +7,7 @@ de la **Universidad Nacional Abierta y a Distancia - UNAD**.
 
 ---
 
-## 📁 Contenido
+##  Contenido
 
 | Archivo | Tema | Descripción |
 |--------|------|-------------|
@@ -15,7 +15,7 @@ de la **Universidad Nacional Abierta y a Distancia - UNAD**.
 
 ---
 
-## 🧮 Temas cubiertos
+##  Temas cubiertos
 
 - Ecuaciones diferenciales de orden superior
 - Movimiento Armónico Simple (MAS)
@@ -25,7 +25,7 @@ de la **Universidad Nacional Abierta y a Distancia - UNAD**.
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - Python 3
 - [SymPy](https://www.sympy.org/) — matemática simbólica
@@ -35,8 +35,8 @@ de la **Universidad Nacional Abierta y a Distancia - UNAD**.
 
 ---
 
-## ▶️ Cómo usar
+## Cómo usar
 
-1. Haz clic en cualquier archivo `.ipynb`
-2. Abre con **Google Colab** usando el botón que aparece en GitHub
-3. Ejecuta las celdas en orden
+| Notebook | Abrir en Colab |
+|----------|---------------|
+| Tarea3_Ejercicio4_Pendulo_LetraE | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luis06-op/ecuaciones-diferenciales/blob/main/Tarea3_Ejercicio4_Pendulo_LetraE.ipynb) |
